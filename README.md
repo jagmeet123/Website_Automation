@@ -1,7 +1,10 @@
 # Website_Automation
 Automated a website(Bookmark.com) using puppeteer, selenium module.The javascript script, will automatically create a website according the requirements of the user.After editing and creating the website it will take a screenshot of the website and upload it on their social media handles automatically.
 
-# Modules Used:
+# Requirements 
+Download Node.Js and some modules
+
+# Node Modules Used:
 1. Cheerio 
 2. Puppeteer 
 3. Selenium
@@ -23,4 +26,4 @@ For Finding the path of the latest screenshot of the website that need's to be u
 2. Add your username and password in the Automation_script.js(line 13,14,15,16)
 3. Create a Folder named capture in the same directorywhere your Automation_script.js is kept - which will contain the screenshot of your website
 4. Download 1.jpg and change the path of the image (line 73)
-5. Run the code using node Automation_script.js 
+5. Run the code using command node Automation_script.js in your terminal 
