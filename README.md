@@ -28,5 +28,11 @@ For Finding the path of the latest screenshot of the website that need's to be u
 4. Download 1.jpg and change the path of the image (line 73)
 5. Run the code using command node Automation_script.js in your terminal 
 
-![1](https://user-images.githubusercontent.com/41186015/117553361-d1579080-b06e-11eb-841f-662cac0706a7.jpg)
+
+
+
+
+
+
+
 
