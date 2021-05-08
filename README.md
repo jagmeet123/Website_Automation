@@ -15,4 +15,12 @@ Used for automation
 For Finding the path of the logo uploaded on the website
 
 # fs: 
-For Finding the path of the latest screenshot of the website that need's to be uploaded on their social media handles.  
+For Finding the path of the latest screenshot of the website that need's to be uploaded on their social media handles. 
+
+# Run the code
+
+1. Create a account on https://www.bookmark.com/ 
+2. Add your username and password in the Automation_script.js(line 13,14,15,16)
+3. Create a Folder named capture in the same directorywhere your Automation_script.js is kept - which will contain the screenshot of your website
+4. Download 1.jpg and change the path of the image (line 73)
+5. Run the code using node Automation_script.js 
