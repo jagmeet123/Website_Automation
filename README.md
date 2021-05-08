@@ -2,11 +2,11 @@
 Automated a website(Bookmark.com) using puppeteer, selenium module.The javascript script, will automatically create a website according the requirements of the user.After editing and creating the website it will take a screenshot of the website and upload it on their social media handles automatically.
 
 # Modules Used:
-1.) Cheerio 
-2.) Puppeteer 
-3.) Selenium
-4.) Path
-5.) fs
+1. Cheerio 
+2. Puppeteer 
+3. Selenium
+4. Path
+5. fs
 
 # Puppeteer, Cheerio and Selenium:
 Used for automation 
